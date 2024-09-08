@@ -1,0 +1,29 @@
+body{
+  background-image: url("https://cdn.vectorstock.com/i/500p/99/19/neon-quiz-sign-glow-question-mark-and-lighting-vector-30239919.jpg");
+
+}
+
+
+.quiz{
+  text-align: center;
+  margin-top: 20px;
+  font-style:italic;
+  color: white;
+  font-size: 40px;
+}
+
+.question{
+  color: white;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.list{
+  color: white;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.btn{
+  margin-top: 10px;
+}
